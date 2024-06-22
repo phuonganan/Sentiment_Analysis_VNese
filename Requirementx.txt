@@ -1,0 +1,7 @@
+datasets
+underthesea
+regex
+nltk
+matplotlib
+seaborn
+scikit-learn
